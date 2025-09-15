@@ -1,0 +1,55 @@
+*{
+    direction: rtl;   
+}
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.form-su{
+    margin-right: auto;
+    margin-left: auto;
+    background-color: blueviolet;
+    width: 340px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    text-align: center;
+    font-family: "Yekan";
+    border-radius: 15px;
+    border: solid 2px goldenrod;
+    color: greenyellow;
+}
+.gab{
+    text-align: center;
+    margin: 5px;
+}
+.po{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.main-su{
+    font-family: "Yekan";
+}
+.po input{
+    width: 200px;
+    height: 20px;
+}
+.em{
+    background-color: greenyellow;
+    color: blueviolet;
+    border: 2px solid gold;
+    border-radius: 6px;
+}
+.submit{
+    background-color: greenyellow;
+    color: blueviolet;
+    border: 2px solid gold;
+    border-radius: 6px;
+}
+.mp{
+    text-decoration: none;
+    font-family: "Yekan";
+    font-weight: 600;
+    font-size: large;
+}
